@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+
+body {
+  font-family: Montserrat;
+  background-image: url("https://raw.githubusercontent.com/TylerPottsDev/yt-react-sign-up-lp/master/src/bg.jpg");
+  background-position: top center;
+  background-size: cover;
+  color: white;
+  text-align: center;
+}
